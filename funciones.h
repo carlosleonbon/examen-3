@@ -1,0 +1,1 @@
+void registro(struct pacientes pacientes,struct domicilio domicilio);
